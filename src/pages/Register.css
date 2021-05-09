@@ -1,0 +1,12 @@
+#input {
+    background-color: white;
+    box-shadow: rgb(139, 139, 139) 1px 1px 1px;
+}
+
+ion-page {
+    margin: 5mm;
+}
+
+ion-title{
+    text-align: center;
+}

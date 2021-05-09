@@ -1,0 +1,18 @@
+.title {
+    text-align: center;
+}
+
+#picture {
+    border: 2px solid rgb(255, 230, 0);
+  padding: 10px;
+  border-radius: 50px 20px;
+}
+
+#card {
+    text-align: center;
+    background-color:white;
+}
+
+h2{
+    text-align: center;
+}
